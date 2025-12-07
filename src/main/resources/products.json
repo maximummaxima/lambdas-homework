@@ -1,0 +1,60 @@
+[
+  {
+    "id": 101,
+    "userId": 1,
+    "sum": 1200.5,
+    "items": [
+      {
+        "product": "Book",
+        "price": 500.0,
+        "qty": 1
+      },
+      {
+        "product": "Pen",
+        "price": 50.0,
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "userId": 2,
+    "sum": 300.0,
+    "items": [
+      {
+        "product": "Book",
+        "price": 300.0,
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "userId": 1,
+    "sum": 150.0,
+    "items": [
+      {
+        "product": "Notebook",
+        "price": 75.0,
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "userId": 3,
+    "sum": 700.0,
+    "items": [
+      {
+        "product": "Pen",
+        "price": 50.0,
+        "qty": 2
+      },
+      {
+        "product": "Backpack",
+        "price": 600.0,
+        "qty": 1
+      }
+    ]
+  }
+]
